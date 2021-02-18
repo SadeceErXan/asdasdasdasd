@@ -1,0 +1,32 @@
+{
+  "prefix": "hy!",
+  "sahip": "757718380110413887",
+  
+  "tag": "マ",
+  
+  "sunucuID": "811717016535957565",
+  
+  "silYetkiliRolID": "811932790983098369",
+  "muteYetkiliRolID": "811932806899826718",
+  "vmuteYetkilisiRolID": "811932843084611615",
+  "banYetkiliRolID": "811932905294397480",
+  "jailYetkiliRolID": "811932930132934676",
+  "sesKesYetkiliRolID": "811932965705744415",
+  "nukeYetkiliRolID": "811935214472265758",
+  
+  "mutedRolID": "811933318835863572",
+  "mutedRolİsim": "muted",
+  "jailedRolID": "811933409290223699",
+  "jailedRolİsim": "jailed",
+  "tagRolID": "811933486201438229",
+  
+  "muteLogKanalID": "811933763814031361",
+  "unmuteLogKanalID": "811933763814031361",
+  "banLogKanalID": "811933874484805632",
+  "unbanLogKanalID": "811933874484805632",
+  "vmuteLogKanalID": "811933911835213834",
+  "unvmuteLogKanalID": "811933911835213834",
+  "jailLogID": "811933985143914506",
+  "unjailLogID": "811933985143914506",
+  "tagRolLogID": "811934006932406283"
+}
